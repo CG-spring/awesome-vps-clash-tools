@@ -62,3 +62,7 @@
 ---
 
 MIT License - 2026
+
+---
+
+> For more VPS & Clash tools, check out [Awesome VPS & Clash Tools](https://github.com/CG-spring/awesome-vps-clash-tools)
